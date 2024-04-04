@@ -1,0 +1,45 @@
+#subjectsContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.subject{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18pt;
+    font-weight: 700;
+    padding: 5px;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    color: #fff;
+    background-color: #404040;
+    background-position: center;
+    background-size: contain;
+    border-radius: 50px;
+    margin: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#physics{
+    background-color: #15498e;
+}
+
+#physics:hover{
+    color: #fff;
+    text-decoration: none;
+    background-color: #3e91ff;
+}
+
+#higherMath{
+    background-color: #15498e;
+}
+
+#higherMath:hover{
+    color: #fff;
+    text-decoration: none;
+    background-color: #3e91ff;
+}

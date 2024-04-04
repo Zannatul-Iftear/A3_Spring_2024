@@ -1,0 +1,108 @@
+#bannerContainer{
+    display: flex;
+    height: 40vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("img/bannerBG1.png");
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+#bannerContainer img{
+    max-width: 300px;
+}
+
+#bannerContainer p{
+    color: #fff;
+    font-size: 30pt;
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 30px;
+    padding: 0 30px;
+}
+
+@media (max-width: 768px) {
+    #bannerContainer{
+        height: 50vh;
+    }
+    
+}
+
+#introPara {
+    font-size: larger;
+    margin: 50px 0;
+}
+
+#introPara b{
+    color: #15498e;
+}
+
+#getStarted{
+    font-weight: 700;
+    color: #15498e;
+    text-align: center;
+}
+
+#linksContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.link{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    max-width: 200px;
+}
+
+.linkImg{
+    height: 200px;
+    width: 200px;
+    background-color: #15498e;
+    background-position: center;
+    background-size: contain;
+    border-radius: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.linkImg:hover{
+    background-color: #3e91ff;
+}
+
+#linkImg1{
+    background-image: url("img/homeIcon1.png");
+}
+
+#linkImg2{
+    background-image: url("img/homeIcon2.png");
+}
+
+#linkImg3{
+    background-image: url("img/homeIcon3.png");
+}
+
+#linkImg4{
+    background-image: url("img/homeIcon4.png");
+}
+
+.linkText{
+    margin: 20px 0;
+    text-decoration: none;
+    font-size: 18pt;
+    font-weight: 700;
+    color: #15498e;
+    text-align: center;
+    text-wrap: wrap;
+}
+
+.linkText:hover{
+    text-decoration: none;
+    color: #3e91ff;
+}
