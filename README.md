@@ -40,28 +40,29 @@ Highly Effective Learning Platform (HELP) is a cloud based board exam question g
 
 For the purposes of our prototype, we have limited our scope to only SSC question papers for Physics and Higher Mathematics. For each of these two subjects, we have inserted seven different question papers into the database.
 
-[ img ]
+![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/764751f6-a586-4719-8071-3b9835da944a)
 
-Generate Question Paper: After choosing the subject, a question paper will be generated in the style of an actual SSC exam paper. Each question will display the name of its chapter, which if clicked, will take the user to a page with chapter information. 
+**Generate Question Paper:** After choosing the subject, a question paper will be generated in the style of an actual SSC exam paper. Each question will display the name of its chapter, which if clicked, will take the user to a page with chapter information. 
 
-[ img ]
+![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/a01b8e95-4cb2-4fda-bc0b-61c5ac5fea42)
 
 Below the paper will be a chart showing Marks Distribution, showing how many marks each chapter carried in the generated paper. Finally, at the bottom will be a table that lists the paper name and link from each each question was taken.
 
-[ img ]
+![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/6d001b0f-07e4-438c-8668-22c0195864f2)
 
-Past Question Papers: Similar to the generated paper, but here the user has the option to browse all past papers that have been added to the database. Chapter linking and Marks distribution features are also available here.
+**Past Question Papers:** Similar to the generated paper, where the user has the option to browse all past papers that have been added to the database. Chapter linking and Marks distribution features are also available here.
 
-[ img ]
+![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/f56717f0-e5c8-452c-afdc-c1be9b2865cb)
 
-Syllabus: For our project we have added the chapter list and book PDF link for both the subjects. This is simply for the user's convenience and study.
+**Syllabus:** For our project we have added the chapter list and book PDF link for both the subjects. This is simply for the user's convenience and study.
 
-[ img ]
+![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/92bdbbe4-8a03-4f8f-b9b0-e1dfeaa233bf)
 
-Add Question Paper: This is an admin feature, which allows us to add a new question paper. The first page takes overall paper information such as SSC/HSC, year, subject etc. 
+**Add Question Paper:** This is an admin feature, which allows us to add a new question paper. The first page takes overall paper information such as SSC/HSC, year, subject etc. 
 
-[ img ]
+![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/d259d5d7-3319-4b04-902a-797f13d24bea)
 
 After the user clicks on Next, they will find a large form that takes individual question information such as its type, set, description and diagram. For now the question marks has been built into the code logic to simplify the process.
 
-[ img ]
+![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/05035fd1-bcba-44f9-b561-c287447a0ade)
+
