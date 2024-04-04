@@ -52,7 +52,7 @@ Below the paper will be a chart showing Marks Distribution, showing how many mar
 
 **Past Question Papers:** Similar to the generated paper, where the user has the option to browse all past papers that have been added to the database. Chapter linking and Marks distribution features are also available here.
 
-![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/f56717f0-e5c8-452c-afdc-c1be9b2865cb)
+![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/690b2c88-76bf-4ec5-9c58-55859ec8a15e)
 
 **Syllabus:** For our project we have added the chapter list and book PDF link for both the subjects. This is simply for the user's convenience and study.
 
