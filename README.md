@@ -8,21 +8,23 @@ Dependencies: Apache, MySQL, PhpMyAdmin
 
 2. Start Apache and MySQL from XAMPP control panel
 
-3. Download ZIP file of the repository.
+![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/8901ddcd-b6c2-4945-bacb-f403a536073e)
 
-4. Extract the ZIP file contents to C:\xampp\htdocs\help
+4. Download ZIP file of the repository.
 
-5. Open a new browser tab and go to http://localhost/phpmyadmin/
+5. Extract the ZIP file contents to C:\xampp\htdocs\help
 
-6. Create a new database, name it "help_db" and select "utf8_general_ci".
+6. Open a new browser tab and go to http://localhost/phpmyadmin/
 
-7. Select the database and click on "Import"
+7. Create a new database, name it "help_db" and select "utf8_general_ci".
 
-8. Choose "help_db.sql" and proceed.
+8. Select the database and click on "Import"
 
-9. If done correctly, data tables and entries will appear inside the database.
+9. Choose "help_db.sql" and proceed.
 
-10. To run the website, go to http://localhost/help/
+10. If done correctly, data tables and entries will appear inside the database.
+
+11. To run the website, go to http://localhost/help/
 
 # Features
 
