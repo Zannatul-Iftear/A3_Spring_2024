@@ -10,7 +10,9 @@ Dependencies: Apache, MySQL, PhpMyAdmin
 
 ![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/8901ddcd-b6c2-4945-bacb-f403a536073e)
 
-4. Download ZIP file of the repository.
+3. Download ZIP file of the repository.
+
+![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/75e60aaf-acfa-4032-9c9c-9a1b179ceeb5)
 
 5. Extract the ZIP file contents to C:\xampp\htdocs\help
 
@@ -18,13 +20,19 @@ Dependencies: Apache, MySQL, PhpMyAdmin
 
 7. Create a new database, name it "help_db" and select "utf8_general_ci".
 
-8. Select the database and click on "Import"
+![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/b9be8c23-cc31-4aaa-8051-6322540f5301)
 
-9. Choose "help_db.sql" and proceed.
+9. Select the database and click on "Import"
 
-10. If done correctly, data tables and entries will appear inside the database.
+10. Choose "help_db.sql" and proceed.
 
-11. To run the website, go to http://localhost/help/
+![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/7618a9a0-7b92-40c6-84be-2804e6467783)
+
+12. If done correctly, data tables and entries will appear inside the database.
+
+![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/750987c0-5e32-47c5-b6b3-3a50119bcb45)
+
+14. To run the website, go to http://localhost/help/
 
 # Features
 
