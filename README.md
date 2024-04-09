@@ -16,7 +16,7 @@ Dependencies: Apache, MySQL, PhpMyAdmin
 
 4. Extract the ZIP file contents to C:\xampp\htdocs\
 
-5. Open a new browser tab and go to http://localhost/phpmyadmin/
+5. Open a new browser window and go to http://localhost/phpmyadmin/
 
 6. Create a new database, name it "help_db" and select "utf8_general_ci".
 
@@ -46,11 +46,11 @@ For the purposes of our prototype, we have limited our scope to only SSC questio
 
 ![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/a01b8e95-4cb2-4fda-bc0b-61c5ac5fea42)
 
-Below the paper will be a chart showing Marks Distribution, showing how many marks each chapter carried in the generated paper. Finally, at the bottom will be a table that lists the paper name and link from each each question was taken.
+Below the paper will be a chart showing Marks Distribution, showing how many marks each chapter carried in the generated paper. Finally, at the bottom will be a table that lists the paper name and link from which each question was taken.
 
 ![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/6d001b0f-07e4-438c-8668-22c0195864f2)
 
-**Past Question Papers:** Similar to the generated paper, where the user has the option to browse all past papers that have been added to the database. Chapter linking and Marks distribution features are also available here.
+**Past Question Papers:** Similar to the generated paper feature. Here the user has the option to browse all past papers that have been added to the database. Chapter linking and Marks distribution features are also available here.
 
 ![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/690b2c88-76bf-4ec5-9c58-55859ec8a15e)
 
@@ -62,7 +62,7 @@ Below the paper will be a chart showing Marks Distribution, showing how many mar
 
 ![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/d259d5d7-3319-4b04-902a-797f13d24bea)
 
-After the user clicks on Next, they will find a large form that takes individual question information such as its type, set, description and diagram. For now the question marks has been built into the code logic to simplify the process.
+After the user clicks on Next, they will find a large form that takes individual question information such as its set, chapter, description and diagram. For now the question marks has been built into the code logic to simplify the process.
 
 ![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/05035fd1-bcba-44f9-b561-c287447a0ade)
 
