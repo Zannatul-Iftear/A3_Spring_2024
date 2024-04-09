@@ -24,7 +24,7 @@ Dependencies: Apache, MySQL, PhpMyAdmin
 
 7. Select the database and click on "Import"
 
-![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/6057a652-f3f7-4f8d-b1d8-ee6af54322dc)
+![image](https://github.com/Zannatul-Iftear/A3_Spring_2024/assets/125757015/50196b7f-c91a-4b85-845d-6da07b517a63)
 
 8. Choose "help_db.sql" from the ZIP contents and proceed.
 
